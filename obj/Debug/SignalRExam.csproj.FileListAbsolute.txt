@@ -1,0 +1,240 @@
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\SignalRExam.dll.config
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\SignalRExam.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\SignalRExam.pdb
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\csc.exe
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\csc.exe.config
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\csc.rsp
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\csi.exe
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\csi.exe.config
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\csi.rsp
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.AppContext.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Console.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Net.Http.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\vbc.exe
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\vbc.exe.config
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\vbc.rsp
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Extensions.Options.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Newtonsoft.Json.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Buffers.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.ComponentModel.Annotations.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.IO.Pipelines.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Memory.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Numerics.Vectors.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Threading.Channels.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Helpers.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Mvc.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Razor.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Webpages.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Core.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Extensions.Options.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Newtonsoft.Json.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Buffers.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.IO.Pipelines.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Memory.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Numerics.Vectors.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Threading.Channels.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Razor.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Webpages.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Helpers.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\System.Web.Mvc.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\obj\Debug\SignalRExam.csproj.AssemblyReference.cache
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\obj\Debug\SignalRExam.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\obj\Debug\SignalRExam.csproj.CopyComplete
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\obj\Debug\SignalRExam.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\obj\Debug\SignalRExam.pdb
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Owin.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Owin.Security.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Owin.dll
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Owin.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ussl\Desktop\1266456-Farida\SignalRExam\bin\Microsoft.Owin.Security.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\SignalRExam.dll.config
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\SignalRExam.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\SignalRExam.pdb
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\csc.exe
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\csc.exe.config
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\csc.rsp
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\csi.exe
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\csi.exe.config
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\csi.rsp
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.AppContext.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Console.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.IO.Compression.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Net.Http.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Net.Sockets.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.ValueTuple.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\vbc.exe
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\vbc.exe.config
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\vbc.rsp
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\VBCSCompiler.exe
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Extensions.Options.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Owin.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Owin.Security.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Newtonsoft.Json.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Owin.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Buffers.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.ComponentModel.Annotations.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.IO.Pipelines.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Memory.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Numerics.Vectors.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Threading.Channels.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Helpers.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Mvc.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Razor.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Webpages.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Webpages.Razor.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Core.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Extensions.Options.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Owin.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.Owin.Security.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Newtonsoft.Json.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Buffers.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.IO.Pipelines.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Memory.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Numerics.Vectors.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Threading.Channels.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Razor.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Webpages.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Webpages.Razor.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Helpers.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\System.Web.Mvc.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\farida\Desktop\New folder\SignalRExam\obj\Debug\SignalRExam.csproj.AssemblyReference.cache
+C:\Users\farida\Desktop\New folder\SignalRExam\obj\Debug\SignalRExam.csproj.CoreCompileInputs.cache
+C:\Users\farida\Desktop\New folder\SignalRExam\obj\Debug\SignalRExam.csproj.CopyComplete
+C:\Users\farida\Desktop\New folder\SignalRExam\obj\Debug\SignalRExam.dll
+C:\Users\farida\Desktop\New folder\SignalRExam\obj\Debug\SignalRExam.pdb
